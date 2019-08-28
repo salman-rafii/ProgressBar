@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    /* background: #333; */
+    background-color: #0F0F0F;
+}
+.percent-count{
+    width:450px;
+    height: 50px;
+    margin:100px auto;
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+
+}
+.progress-bar{
+   
+    width: 190px;
+    height: 0.5px;
+    background-color: #bbb;
+    border-radius: 12px;
+    margin: 50px auto;
+}
+.progress{
+    width: 20px;
+    height: 0.5px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+/* .logo{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff; */
